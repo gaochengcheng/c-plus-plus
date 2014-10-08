@@ -1,4 +1,4 @@
-//In this problem, your task is to calculate SUM(n) = 1 + 2 + 3 + ... + n.
+ï»¿//In this problem, your task is to calculate SUM(n) = 1 + 2 + 3 + ... + n.
 //The input will consist of a series of integers n, one integer per line.
 //For each case, output SUM(n) in one line, followed by a blank line. You may assume the result will be in the range of 32-bit signed integer.
 #include <stdio.h>
@@ -15,7 +15,7 @@ int main(){
 	}
 	return 0;
 }
-//    EOFÊÇÎÄ¼ş½áÊøÁ÷  Õâ¸öÒ»°ãÔÚACM±ÈÈüÖĞÒªÇóÊäÈëÊı¾İÓĞ¶à×éÊ±ÕâÃ´×ö   ctrl+z  ¿ÉÒÔÄ£Äâµ½´ïÁËÎÄ¼şÄ©Î²
+//    EOFæ˜¯æ–‡ä»¶ç»“æŸæµ  è¿™ä¸ªä¸€èˆ¬åœ¨ACMæ¯”èµ›ä¸­è¦æ±‚è¾“å…¥æ•°æ®æœ‰å¤šç»„æ—¶è¿™ä¹ˆåš   ctrl+z  å¯ä»¥æ¨¡æ‹Ÿåˆ°è¾¾äº†æ–‡ä»¶æœ«å°¾
 
 /*
 #include<stdio.h>
@@ -27,13 +27,13 @@ int main()
 }  
  */
 /*
-scanfº¯Êı·µ»ØµÄÊÇÊäÈëµÄÊı¾İµÄ¸öÊı,Ê²Ã´¶¼²»ÊäÈë´ú±í-1
-ÔÚscanf("%d %d",&a,&b)==2 ÖĞÈç¹ûÊäÈëÁ½¸öÊı×ÖÄÇÃ´scanfº¯Êı»á·µ»ØÒ»¸ö2
-Èç¹ûctrl+Z ÄÇÃ´scanfº¯Êı·µ»Ø-1
-ÒòÎª-1 != 2 ËùÒÔÑ­»·ÖÕÖ¹
-ÖÁÓÚwhile(scanf("%d %d",&a,&b)!=EOF)ÎªÊ²Ã´Ò²ÓĞÕâ¸öĞ§¹û,Ô­ÒòÊÇÒ»ÑùµÄ
+scanfå‡½æ•°è¿”å›çš„æ˜¯è¾“å…¥çš„æ•°æ®çš„ä¸ªæ•°,ä»€ä¹ˆéƒ½ä¸è¾“å…¥ä»£è¡¨-1
+åœ¨scanf("%d %d",&a,&b)==2 ä¸­å¦‚æœè¾“å…¥ä¸¤ä¸ªæ•°å­—é‚£ä¹ˆscanfå‡½æ•°ä¼šè¿”å›ä¸€ä¸ª2
+å¦‚æœctrl+Z é‚£ä¹ˆscanfå‡½æ•°è¿”å›-1
+å› ä¸º-1 != 2 æ‰€ä»¥å¾ªç¯ç»ˆæ­¢
+è‡³äºwhile(scanf("%d %d",&a,&b)!=EOF)ä¸ºä»€ä¹ˆä¹Ÿæœ‰è¿™ä¸ªæ•ˆæœ,åŸå› æ˜¯ä¸€æ ·çš„
 EOF = -1
-ÊäÈëÁ½¸öÊı×Ö scanf·µ»Ø½á¹û2 ÊäÈëctrl+z ·µ»Ø -1
--1 == -1 Ñ­»·ÖÕÖ¹
-Â¥Ö÷½«´úÂëÔËĞĞÒ»ÏÂ¿´¿´.
+è¾“å…¥ä¸¤ä¸ªæ•°å­— scanfè¿”å›ç»“æœ2 è¾“å…¥ctrl+z è¿”å› -1
+-1 == -1 å¾ªç¯ç»ˆæ­¢
+æ¥¼ä¸»å°†ä»£ç è¿è¡Œä¸€ä¸‹çœ‹çœ‹.
 */
